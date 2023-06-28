@@ -1,0 +1,74 @@
+{
+    "_vcs_DPI_package": [
+        "_vcs_DPI_package",
+        "uM9F1",
+        "module",
+        1
+    ],
+    "vcs_paramclassrepository": [
+        "vcs_paramclassrepository",
+        "hEeZs",
+        "module",
+        2
+    ],
+    "_vcs_unit__1393900436": [
+        "_vcs_unit__1393900436",
+        "K1HMM",
+        "module",
+        3
+    ],
+    "std": [
+        "std",
+        "reYIK",
+        "module",
+        4
+    ],
+    "uvm_pkg": [
+        "uvm_pkg",
+        "zr7M1",
+        "module",
+        5
+    ],
+    "i2c_vip_intf": [
+        "i2c_vip_intf",
+        "pTqbL",
+        "module",
+        6
+    ],
+    "apb_intf": [
+        "apb_intf",
+        "B1KkQ",
+        "module",
+        7
+    ],
+    "fifo": [
+        "fifo",
+        "BWIbP",
+        "module",
+        8
+    ],
+    "i2c": [
+        "i2c",
+        "FPmmx",
+        "module",
+        9
+    ],
+    "i2c_vip_package": [
+        "i2c_vip_package",
+        "VEWET",
+        "module",
+        10
+    ],
+    "i2c1": [
+        "i2c1",
+        "qwhrM",
+        "module",
+        11
+    ],
+    "...MASTER...": [
+        "SIM",
+        "amcQw",
+        "module",
+        12
+    ]
+}
